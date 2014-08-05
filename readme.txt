@@ -1,5 +1,6 @@
 ﻿=== placekitten ===
 Contributors: pathawks
+Donate link: https://github.com/pathawks/placekitten
 Tags: plugins, wordpress, placekitten, kitten, mockup, picture
 Requires at least: 2.9
 Tested up to: 3.1
